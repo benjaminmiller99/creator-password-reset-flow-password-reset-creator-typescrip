@@ -37,3 +37,7 @@ The example above is intentionally minimal. A few things to wire up for real use
 
 **Creator Password Reset Flow Password Reset Creator Typescrip: CAPTCHA**
 - **Creator Password Reset Flow Password Reset Creator Typescrip:** Verify tokens **server-side** only (`POST /v1/captcha/verify`); configure your widget/site key and a sensible score threshold.
+
+## Further reading
+
+- [Verified-Domain Workspace Joining for Social Sign-In (With Recovery as the Constraint)](docs/verified-domain-workspace-joining-for-social-sign-t60117.md)
